@@ -28,10 +28,13 @@ mkdir docs
 ## Start the chatbot application using Streamlit
 
 `streamlit run chatbot_app.py`
-![1](https://github.com/user-attachments/assets/531df3d2-a9b9-4a88-83f5-0378f510d173)
+
+![1](https://github.com/user-attachments/assets/6f913468-1898-4f06-b22b-dea203933983)
 
 
-![2](https://github.com/user-attachments/assets/f9d75f4d-f572-4e3b-a2a5-e0507b08af23)
+
+![2](https://github.com/user-attachments/assets/89ea7965-2e81-4627-976f-16f4b751304b)
+
 
 
 Producing and with referrence from PDFs.
